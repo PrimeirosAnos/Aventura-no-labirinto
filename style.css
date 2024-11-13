@@ -1,0 +1,16 @@
+body{
+    background: aqua;
+    color: rgb(3, 3, 92);
+    font-family: "Dancing Script", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 0;
+}
+
+button{
+    background-color: aquamarine;
+    color: rgb(3, 3, 92);
+    font-family: "Dancing Script", cursive;
+}
